@@ -1,9 +1,9 @@
-# PasswordStrengthChecker
+# Password Strength Checker
 
 
 ## Project Overview:
 
-This PasswordStrengthChecker was developed as part of an Internet Security Course. It serves as a web-based application that allows users to check the strength of their passwords in real-time. It provides visual feedback on the strength of the password based on various criteria such as length, presence of uppercase letters, lowercase letters, digits, and special characters.
+This Password Strength Checker tool was developed as part of an Internet Security Course. It serves as a web-based application that allows users to check the strength of their passwords in real-time. It provides visual feedback on the strength of the password based on various criteria such as length, presence of uppercase letters, lowercase letters, digits, and special characters.
 
 ## Project Idea:
 The idea behind this project is to create a tool that helps users create strong and secure passwords by providing immediate feedback on the strength of their chosen passwords. By visually indicating which password conditions are met and the overall strength of the password, users can make informed decisions about their password choices.
